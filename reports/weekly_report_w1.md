@@ -25,5 +25,4 @@
 ### Tuần trước làm gì
 
 ### Các vấn đề gặp phải
-
 ### Dự định tuần này làm gì
