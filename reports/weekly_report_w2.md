@@ -30,9 +30,10 @@
 ### Dự định tuần này làm gì
 - Viết báo cáo một vài phần đặc tả 
 
-## Lò Văn K
+## Nguyễn Bảo Hoàng
 ### Tuần trước làm gì
-
+- Tìm hiểu các tài liệu
 ### Các vấn đề gặp phải
-
+- Không gặp phải vẫn đề gì
 ### Dự định tuần này làm gì
+- Xây dựng giao diện đăng nhập và đăng ký của web
