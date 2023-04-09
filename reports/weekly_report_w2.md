@@ -20,6 +20,16 @@
 ### Dự định tuần này làm gì
 - tiếp tục hoàn thiện code của BTL
 
+## Lê Hoàng Ngọc Tú
+
+### Tuần trước làm gì
+- Tìm tài liệu và tham khảo 1 vài chức năng của phần mềm để lên ý tưởng cho BTL
+### Các vấn đề gặp phải
+- không gặp phải vấn đề gì
+
+### Dự định tuần này làm gì
+- Viết báo cáo một vài phần đặc tả 
+
 ## Lò Văn K
 ### Tuần trước làm gì
 
