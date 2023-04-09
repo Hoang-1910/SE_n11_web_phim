@@ -13,7 +13,8 @@
 ## Trịnh gia khiêm
 
 ### Tuần trước làm gì
-- làm nhóm trưởng trong tuần này 
+- làm nhóm trưởng trong tuần này
+- Viết báo cáo phần 2.6 Đặc tả use-case
 ### Các vấn đề gặp phải
 - không gặp phải vấn đề gì
 
