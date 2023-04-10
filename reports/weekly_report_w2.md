@@ -38,3 +38,10 @@
 - Không gặp phải vẫn đề gì
 ### Dự định tuần này làm gì
 - Xây dựng giao diện đăng nhập và đăng ký của web
+## Nguyễn Ngọc Miền 
+### Tuần trước làm gì
+- Tìm hiểu và tham khảo 1 vài tài liệu 
+### Các vấn đề gặp phải
+- Không gặp phải vẫn đề gì
+### Dự định tuần này làm gì
+- vẽ biểu đồ use-case phân rã
