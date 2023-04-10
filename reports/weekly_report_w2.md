@@ -37,11 +37,12 @@
 ### Các vấn đề gặp phải
 - Không gặp phải vẫn đề gì
 ### Dự định tuần này làm gì
-- Xây dựng giao diện đăng nhập và đăng ký của web
+- Xây dựng giao diện đăng nhập và đăng ký của web = HTML&CSS
 ## Nguyễn Ngọc Miền 
 ### Tuần trước làm gì
-- Tìm hiểu và tham khảo 1 vài tài liệu 
+- Tìm hiểu và tham khảo 1 vài tài liệu
+- vẽ biểu đồ use-case phân rã 
 ### Các vấn đề gặp phải
 - Không gặp phải vẫn đề gì
 ### Dự định tuần này làm gì
-- vẽ biểu đồ use-case phân rã
+- Tìm hiểu tài liệu về java script 
